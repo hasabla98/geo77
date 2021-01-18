@@ -1,3 +1,3 @@
 # geo77
- This is a test for geo77
-this is another paragraph
+ This is a test for geo77.
+This is another paragraph.
